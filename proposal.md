@@ -26,7 +26,7 @@ to store the searching data from twitter api. Then present the tweet data to the
 
 
 ## License
-See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](LICENSE) file for license rights and limitations (MIT).
 
 ## Project Information
 - category: full stack
